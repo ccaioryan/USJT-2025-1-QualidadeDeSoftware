@@ -1,0 +1,1 @@
+# SJ-2025-1-QualidadeDeSoftware
